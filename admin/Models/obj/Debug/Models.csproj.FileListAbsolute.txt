@@ -1,0 +1,9 @@
+E:\visual studio 2013\admin\Models\bin\Debug\Models.dll.config
+E:\visual studio 2013\admin\Models\bin\Debug\Models.dll
+E:\visual studio 2013\admin\Models\bin\Debug\Models.pdb
+E:\visual studio 2013\admin\Models\bin\Debug\EntityFramework.dll
+E:\visual studio 2013\admin\Models\bin\Debug\EntityFramework.xml
+E:\visual studio 2013\admin\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\visual studio 2013\admin\Models\obj\Debug\Models.dll
+E:\visual studio 2013\admin\Models\obj\Debug\Models.pdb
+E:\visual studio 2013\admin\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache

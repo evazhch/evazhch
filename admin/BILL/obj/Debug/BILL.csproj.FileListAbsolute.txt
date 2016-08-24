@@ -1,0 +1,14 @@
+E:\visual studio 2013\admin\BILL\bin\Debug\BILL.dll
+E:\visual studio 2013\admin\BILL\bin\Debug\BILL.pdb
+E:\visual studio 2013\admin\BILL\obj\Debug\BILL.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\admin\BILL\obj\Debug\BILL.dll
+E:\visual studio 2013\admin\BILL\obj\Debug\BILL.pdb
+E:\visual studio 2013\admin\BILL\bin\Debug\Common.dll
+E:\visual studio 2013\admin\BILL\bin\Debug\IBILL.dll
+E:\visual studio 2013\admin\BILL\bin\Debug\IDALL.dll
+E:\visual studio 2013\admin\BILL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\visual studio 2013\admin\BILL\bin\Debug\Models.dll
+E:\visual studio 2013\admin\BILL\bin\Debug\Common.pdb
+E:\visual studio 2013\admin\BILL\bin\Debug\IBILL.pdb
+E:\visual studio 2013\admin\BILL\bin\Debug\IDALL.pdb
+E:\visual studio 2013\admin\BILL\bin\Debug\Models.pdb

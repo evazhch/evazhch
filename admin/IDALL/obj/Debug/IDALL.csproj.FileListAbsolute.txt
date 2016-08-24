@@ -1,0 +1,7 @@
+E:\visual studio 2013\admin\IDALL\bin\Debug\IDALL.dll
+E:\visual studio 2013\admin\IDALL\bin\Debug\IDALL.pdb
+E:\visual studio 2013\admin\IDALL\obj\Debug\IDALL.dll
+E:\visual studio 2013\admin\IDALL\obj\Debug\IDALL.pdb
+E:\visual studio 2013\admin\IDALL\bin\Debug\Models.dll
+E:\visual studio 2013\admin\IDALL\bin\Debug\Models.pdb
+E:\visual studio 2013\admin\IDALL\obj\Debug\IDALL.csprojResolveAssemblyReference.cache

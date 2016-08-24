@@ -1,0 +1,13 @@
+E:\visual studio 2013\admin\IBILL\bin\Debug\IBILL.dll
+E:\visual studio 2013\admin\IBILL\bin\Debug\IBILL.pdb
+E:\visual studio 2013\admin\IBILL\bin\Debug\Common.dll
+E:\visual studio 2013\admin\IBILL\bin\Debug\DALL.dll
+E:\visual studio 2013\admin\IBILL\bin\Debug\IDALL.dll
+E:\visual studio 2013\admin\IBILL\bin\Debug\Models.dll
+E:\visual studio 2013\admin\IBILL\bin\Debug\Common.pdb
+E:\visual studio 2013\admin\IBILL\bin\Debug\DALL.pdb
+E:\visual studio 2013\admin\IBILL\bin\Debug\IDALL.pdb
+E:\visual studio 2013\admin\IBILL\bin\Debug\Models.pdb
+E:\visual studio 2013\admin\IBILL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\admin\IBILL\obj\Debug\IBILL.dll
+E:\visual studio 2013\admin\IBILL\obj\Debug\IBILL.pdb

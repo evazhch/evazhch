@@ -1,0 +1,4 @@
+E:\visual studio 2013\admin\Common\bin\Debug\Common.dll
+E:\visual studio 2013\admin\Common\bin\Debug\Common.pdb
+E:\visual studio 2013\admin\Common\obj\Debug\Common.dll
+E:\visual studio 2013\admin\Common\obj\Debug\Common.pdb

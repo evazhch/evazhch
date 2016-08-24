@@ -1,0 +1,11 @@
+E:\visual studio 2013\GameTest\GameTest\bin\Debug\GameTest.exe.config
+E:\visual studio 2013\GameTest\GameTest\bin\Debug\GameTest.exe
+E:\visual studio 2013\GameTest\GameTest\bin\Debug\GameTest.pdb
+E:\visual studio 2013\GameTest\GameTest\obj\Debug\GameTest.Form1.resources
+E:\visual studio 2013\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+E:\visual studio 2013\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.Cache
+E:\visual studio 2013\GameTest\GameTest\obj\Debug\GameTest.exe
+E:\visual studio 2013\GameTest\GameTest\obj\Debug\GameTest.pdb
+E:\visual studio 2013\GameTest\GameTest\obj\Debug\GameTest.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\GameTest\GameTest\obj\Debug\Interop.WMPLib.dll
+E:\visual studio 2013\GameTest\GameTest\obj\Debug\GameTest.csproj.ResolveComReference.cache

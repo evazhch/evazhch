@@ -1,0 +1,22 @@
+E:\visual file\RPG experiment\RPG experiment\bin\Debug\RPG experiment.exe.config
+E:\visual file\RPG experiment\RPG experiment\bin\Debug\RPG experiment.exe
+E:\visual file\RPG experiment\RPG experiment\bin\Debug\RPG experiment.pdb
+E:\visual file\RPG experiment\RPG experiment\obj\Debug\RPG experiment.csprojResolveAssemblyReference.cache
+E:\visual file\RPG experiment\RPG experiment\obj\Debug\RPG_experiment.Form1.resources
+E:\visual file\RPG experiment\RPG experiment\obj\Debug\RPG_experiment.Properties.Resources.resources
+E:\visual file\RPG experiment\RPG experiment\obj\Debug\RPG experiment.csproj.GenerateResource.Cache
+E:\visual file\RPG experiment\RPG experiment\obj\Debug\RPG experiment.exe
+E:\visual file\RPG experiment\RPG experiment\obj\Debug\RPG experiment.pdb
+E:\visual file\RPG experiment\RPG experiment\obj\Debug\Interop.WMPLib.dll
+E:\visual file\RPG experiment\RPG experiment\obj\Debug\RPG experiment.csproj.ResolveComReference.cache
+E:\visual studio 2013\RPG experiment\RPG experiment\bin\Debug\RPG experiment.exe.config
+E:\visual studio 2013\RPG experiment\RPG experiment\obj\Debug\Interop.WMPLib.dll
+E:\visual studio 2013\RPG experiment\RPG experiment\obj\Debug\RPG experiment.csproj.ResolveComReference.cache
+E:\visual studio 2013\RPG experiment\RPG experiment\obj\Debug\RPG experiment.exe
+E:\visual studio 2013\RPG experiment\RPG experiment\obj\Debug\RPG experiment.pdb
+E:\visual studio 2013\RPG experiment\RPG experiment\bin\Debug\RPG experiment.exe
+E:\visual studio 2013\RPG experiment\RPG experiment\bin\Debug\RPG experiment.pdb
+E:\visual studio 2013\RPG experiment\RPG experiment\obj\Debug\RPG experiment.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\RPG experiment\RPG experiment\obj\Debug\RPG_experiment.Form1.resources
+E:\visual studio 2013\RPG experiment\RPG experiment\obj\Debug\RPG_experiment.Properties.Resources.resources
+E:\visual studio 2013\RPG experiment\RPG experiment\obj\Debug\RPG experiment.csproj.GenerateResource.Cache
