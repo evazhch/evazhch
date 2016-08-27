@@ -1,0 +1,12 @@
+﻿@model List<Blog.Models.sys.BlogSampleModel>
+@{
+    Layout ="~/Views/Shared/_Layout.cshtml";
+}
+
+    @foreach (var item in Model)
+    {
+     <div>
+      <h2>@item.Name</h2>
+      <p>@item.Notice</p>
+     </div>  
+    }

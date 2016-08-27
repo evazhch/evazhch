@@ -1,0 +1,14 @@
+E:\visual studio 2013\Blog\Blog.BLL\bin\Debug\Blog.BLL.dll
+E:\visual studio 2013\Blog\Blog.BLL\bin\Debug\Blog.BLL.pdb
+E:\visual studio 2013\Blog\Blog.BLL\bin\Debug\Blog.DAL.dll
+E:\visual studio 2013\Blog\Blog.BLL\bin\Debug\Blog.IBLL.dll
+E:\visual studio 2013\Blog\Blog.BLL\bin\Debug\Blog.IDAL.dll
+E:\visual studio 2013\Blog\Blog.BLL\bin\Debug\Blog.Models.dll
+E:\visual studio 2013\Blog\Blog.BLL\bin\Debug\Blog.DAL.pdb
+E:\visual studio 2013\Blog\Blog.BLL\bin\Debug\Blog.IBLL.pdb
+E:\visual studio 2013\Blog\Blog.BLL\bin\Debug\Blog.IDAL.pdb
+E:\visual studio 2013\Blog\Blog.BLL\bin\Debug\Blog.Models.pdb
+E:\visual studio 2013\Blog\Blog.BLL\obj\Debug\Blog.BLL.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Blog\Blog.BLL\obj\Debug\Blog.BLL.dll
+E:\visual studio 2013\Blog\Blog.BLL\obj\Debug\Blog.BLL.pdb
+E:\visual studio 2013\Blog\Blog.BLL\bin\Debug\Microsoft.Practices.Unity.dll

@@ -1,0 +1,9 @@
+E:\visual studio 2013\Blog\Blog.DAL\bin\Debug\Blog.DAL.dll
+E:\visual studio 2013\Blog\Blog.DAL\bin\Debug\Blog.DAL.pdb
+E:\visual studio 2013\Blog\Blog.DAL\bin\Debug\Blog.IDAL.dll
+E:\visual studio 2013\Blog\Blog.DAL\bin\Debug\Blog.Models.dll
+E:\visual studio 2013\Blog\Blog.DAL\bin\Debug\Blog.IDAL.pdb
+E:\visual studio 2013\Blog\Blog.DAL\bin\Debug\Blog.Models.pdb
+E:\visual studio 2013\Blog\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Blog\Blog.DAL\obj\Debug\Blog.DAL.dll
+E:\visual studio 2013\Blog\Blog.DAL\obj\Debug\Blog.DAL.pdb

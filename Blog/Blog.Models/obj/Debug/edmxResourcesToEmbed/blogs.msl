@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+  <Alias Key="Model" Value="blogs" />
+  <Alias Key="Target" Value="blogs.Store" />
+  <EntityContainerMapping CdmEntityContainer="blogsContainer" StorageEntityContainer="blogsStoreContainer">
+    <EntitySetMapping Name="BlogSample">
+      <EntityTypeMapping TypeName="blogs.BlogSample">
+        <MappingFragment StoreEntitySet="BlogSample">
+          <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+          <ScalarProperty Name="Addr" ColumnName="Addr" />
+          <ScalarProperty Name="Recommend" ColumnName="Recommend" />
+          <ScalarProperty Name="Brows" ColumnName="Brows" />
+          <ScalarProperty Name="Author" ColumnName="Author" />
+          <ScalarProperty Name="Notice" ColumnName="Notice" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

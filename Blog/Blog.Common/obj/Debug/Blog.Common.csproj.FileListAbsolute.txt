@@ -1,0 +1,5 @@
+E:\visual studio 2013\Blog\Blog.Common\bin\Debug\Blog.Common.dll
+E:\visual studio 2013\Blog\Blog.Common\bin\Debug\Blog.Common.pdb
+E:\visual studio 2013\Blog\Blog.Common\obj\Debug\Blog.Common.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Blog\Blog.Common\obj\Debug\Blog.Common.dll
+E:\visual studio 2013\Blog\Blog.Common\obj\Debug\Blog.Common.pdb
